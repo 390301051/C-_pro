@@ -1,0 +1,18 @@
+E:\VS studio\Ping\Ping\bin\Debug\Ping.exe.config
+E:\VS studio\Ping\Ping\bin\Debug\Ping.exe
+E:\VS studio\Ping\Ping\bin\Debug\Ping.pdb
+E:\VS studio\Ping\Ping\obj\x86\Debug\Ping.exe
+E:\VS studio\Ping\Ping\obj\x86\Debug\Ping.pdb
+E:\VS studio\Ping\Ping\obj\x86\Debug\PingDebug.csprojResolveAssemblyReference.cache
+D:\vsCode\Ping\Ping\bin\Debug\Ping.exe.config
+D:\vsCode\Ping\Ping\obj\x86\Debug\Ping.exe
+D:\vsCode\Ping\Ping\obj\x86\Debug\Ping.pdb
+D:\vsCode\Ping\Ping\bin\Debug\Ping.exe
+D:\vsCode\Ping\Ping\bin\Debug\Ping.pdb
+D:\vsCode\Ping\Ping\obj\x86\Debug\PingDebug.csprojResolveAssemblyReference.cache
+D:\vsCode\Ping\Ping\bin\Debug\Spire.XLS.dll
+D:\vsCode\Ping\Ping\bin\Debug\Spire.License.dll
+D:\vsCode\Ping\Ping\bin\Debug\Spire.Pdf.dll
+D:\vsCode\Ping\Ping\bin\Debug\Spire.XLS.xml
+D:\vsCode\Ping\Ping\bin\Debug\Spire.License.xml
+D:\vsCode\Ping\Ping\bin\Debug\Spire.Pdf.xml
