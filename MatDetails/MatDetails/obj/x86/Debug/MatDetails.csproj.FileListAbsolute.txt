@@ -1,0 +1,7 @@
+D:\vsCode\MatDetails\MatDetails\bin\Debug\MatDetails.exe.config
+D:\vsCode\MatDetails\MatDetails\bin\Debug\MatDetails.exe
+D:\vsCode\MatDetails\MatDetails\bin\Debug\MatDetails.pdb
+D:\vsCode\MatDetails\MatDetails\obj\x86\Debug\MatDetails.exe
+D:\vsCode\MatDetails\MatDetails\obj\x86\Debug\MatDetails.pdb
+D:\vsCode\MatDetails\MatDetails\obj\x86\Debug\MatDetails.csprojAssemblyReference.cache
+D:\vsCode\MatDetails\MatDetails\obj\x86\Debug\MatDetails.csproj.CoreCompileInputs.cache
